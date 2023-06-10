@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(57, 62, 70);
+}
+
+h1{
+    margin: 30px;
+    text-shadow:  rgb(35, 41, 49) 5px 0px;
+    text-align: center;
+    font-family:  Lobster, cursive;
+    font-size: 8rem;
+    color: rgb(78, 204, 163);
+}
+
+
+
+.dice{
+    color: rgb(78, 204, 163);
+    font-family: "Indie Flower", cursive;
+    font-size: 2rem;
+    display: inline-block;
+    text-align: center;
+  
+}
+
+.footerContent{
+    font-family: "Indie Flower", cursive;
+    text-align: center;
+    color: white;
+    display: block;
+}
+
+
+.container{
+    text-align: center;
+    margin: auto;
+}
+
+.result{
+    width: 200px;
+    margin: 20px;
+}
